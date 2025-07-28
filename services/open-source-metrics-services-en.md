@@ -137,7 +137,7 @@ Although it helps to quickly understand the concepts and scope related to open s
 ### 3. OSS Compass: The Open Source Compass
 Launched in 2023, OSS is China's first open source ecosystem health assessment platform. OSS Compass was jointly developed by leading domestic universities, enterprises, and open source communities. It is a platform that combines theoretical depth with practical value.The Open Source Compass showcases an open source ecosystem evaluation system that includes the open source ecosystem, "collaboration, people, software", and an evaluation model.
 
-![图1 OSS Compass 开源指南针的开源生态评估体系](https://github.com/December21-dev/osewp/blob/main/images/%E5%BC%80%E6%BA%90%E7%94%9F%E6%80%81%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB%E5%9B%BE.png )
+![图1 OSS Compass 开源指南针的开源生态评估体系](https://github.com/December21-dev/osewp/blob/main/images/open-source-ecosystem-evaluation-framewor-english.jpg)
 
 *Figure 1. The open source ecosystem evaluation system of OSS Compass*
 

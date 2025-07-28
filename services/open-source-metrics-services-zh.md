@@ -125,7 +125,7 @@ CHAOSS是Linux基金会旗下的项目，专注于通过指标分析来定义社
 
 我国首个开源生态健康评估平台（2023年发布），由由国内的多家高校、企业、开源社区联合打造的一个兼具理论深度与实用价值的平台。开源指南针展示的开源生态评估体系包括开源生态、“协作、人、软件”和评估模型
 
-![图1 OSS Compass 开源指南针的开源生态评估体系](images/%E5%BC%80%E6%BA%90%E7%94%9F%E6%80%81%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB%E5%9B%BE.png)
+![图1 OSS Compass 开源指南针的开源生态评估体系](https://github.com/December21-dev/osewp/blob/main/images/open-source-ecosystem-evaluation-framework.png)
 
 *图1  OSS Compass 开源指南针的开源生态评估体系。*
 
