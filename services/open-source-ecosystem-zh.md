@@ -6,6 +6,9 @@
 ## 开源生态系统关键角色
 开源生态依托四大角色进行有效协作。主要涉及开源贡献者、开源使用者、开源运营者、开源服务者等多个角色，企业和个人均可参与。
 
+![Key Role](https://github.com/December21-dev/osewp/blob/main/images/key-role.png)  
+
+
 
 ### 个人角色
 - **项目发起者（project initiator）**：提出开源项目的创意或需求，制定初始目标与规划，他们通常还是这个项目的第一行代码的撰写者、最初的文章作者，他们可能在项目初期身兼多职（如核心维护者、布道者等等），直到项目在发展壮大之后，再将一些角色分配给他人。
@@ -46,6 +49,7 @@
 - **开源基金会成为开源运营重要角色**
 目前主流的开源基金（Linux基金会、Apache基金会等）是在美国国税局注册的501（CX3）或501Cc）非盈利机构，近年来开源基金会会员数及托管项目数不断扩充，我国企业积极参与国际开源基金会。
 
+![Foundation Data Statistics](https://github.com/December21-dev/osewp/blob/main/images/foundation-data.png)  
 
 ## 开源生态未来之路
 - **开源从个人行为逐渐发展成为企业行为**
